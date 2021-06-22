@@ -1,0 +1,16 @@
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.exe
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.deps.json
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.runtimeconfig.json
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.runtimeconfig.dev.json
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.dll
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\ref\communication-log2.dll
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\bin\Debug\net5.0\communication-log2.pdb
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.csproj.AssemblyReference.cache
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.AssemblyInfoInputs.cache
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.AssemblyInfo.cs
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.dll
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\ref\communication-log2.dll
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.pdb
+C:\Users\Hussein\desktop\communication-log2\communication-log2\communication-log2\obj\Debug\net5.0\communication-log2.genruntimeconfig.cache
