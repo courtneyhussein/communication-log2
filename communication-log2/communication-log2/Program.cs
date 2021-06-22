@@ -12,6 +12,8 @@ namespace communication_log2
             Console.WriteLine("We forgot the navigator!");
             Console.WriteLine("Cleared to land");
             Console.WriteLine("wheels down.");
+            Console.WriteLine("Why did the chicken cross the road?");
+            Console.ForegroundColor = ConsoleColor.Blue;
         }
     }
 }

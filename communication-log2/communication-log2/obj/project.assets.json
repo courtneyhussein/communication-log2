@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hussein\\.nuget\\packages\\": {}
+    "C:\\Users\\linfo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hussein\\desktop\\communication-log2\\communication-log2\\communication-log2\\communication-log2.csproj",
+      "projectUniqueName": "C:\\Users\\linfo\\Desktop\\communication-log2\\communication-log2\\communication-log2\\communication-log2\\communication-log2.csproj",
       "projectName": "communication-log2",
-      "projectPath": "C:\\Users\\Hussein\\desktop\\communication-log2\\communication-log2\\communication-log2\\communication-log2.csproj",
-      "packagesPath": "C:\\Users\\Hussein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hussein\\desktop\\communication-log2\\communication-log2\\communication-log2\\obj\\",
+      "projectPath": "C:\\Users\\linfo\\Desktop\\communication-log2\\communication-log2\\communication-log2\\communication-log2\\communication-log2.csproj",
+      "packagesPath": "C:\\Users\\linfo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\linfo\\Desktop\\communication-log2\\communication-log2\\communication-log2\\communication-log2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hussein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\linfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
