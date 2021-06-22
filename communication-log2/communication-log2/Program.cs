@@ -9,6 +9,7 @@ namespace communication_log2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello again!");
             Console.WriteLine("Cleared to fly!");
+            Console.WriteLine("We forgot the navigator!");
         }
     }
 }
