@@ -13,9 +13,7 @@ namespace communication_log2
             Console.WriteLine("Cleared to land");
             Console.WriteLine("wheels down.");
             Console.WriteLine("Why did the turkey cross the road?");
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Why did the turkey cross the road?");
-            Console.WriteLine("Why did the turkey cross the road?");
+            Console.ForegroundColor = ConsoleColor.Blue;
 
         }
     }
